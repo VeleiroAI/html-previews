@@ -1,0 +1,7 @@
+# StatiCrypt writes a per-run config with the salt here; we pass --salt / -c false
+# explicitly instead, so this should never be committed.
+.staticrypt.json
+
+# OS / editor junk
+.DS_Store
+*.swp
